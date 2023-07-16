@@ -601,7 +601,7 @@ GameObject:
   - component: {fileID: 608655282}
   - component: {fileID: 608655281}
   m_Layer: 0
-  m_Name: wall_back (1)
+  m_Name: wall_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
